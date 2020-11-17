@@ -1,6 +1,6 @@
 # About
 
-Redesign of the Rent page of the NFT Rent's site using:
+Redesign of the Lending page of the NFT Rent's site using:
 
 - HTML
 - CSS
